@@ -1,5 +1,5 @@
 :shipit: :green_heart:
-# IntroduccionR
+# Introducción R
 
 ## Realice la tarea de creación de datos basado basado en la clase de Introduccion a R, revise la carpeta del 2021II_4.1 INTRODUCCIÓN A R. En la actividad se requiere:
 
