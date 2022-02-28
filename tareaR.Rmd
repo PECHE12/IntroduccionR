@@ -3,6 +3,21 @@ title: "Unidad Regional Amazonica Ikiam"
 author: "Betsabe Arcos"
 output: html_document
 date: '2022-02-26'
+output:
+  html_document:
+    fig_height: 6
+    fight_width: 8
+    theme: journal
+    highlight: zenburn
+    toc: yes
+    toc_depht: 4
+    toc_float:
+      collapsed: no
+      smooth_scroll: yes
+---
+```{r Setup,include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 ---
 ## Tarea Introduccion a R
 
